@@ -1,0 +1,443 @@
+
+
+@media screen and (max-width: 1200px) {
+    .pagewrap {
+        width: 992px;
+    }
+    .logo_top li img{
+        height: 130px;
+        padding-right: 250px;
+    }
+    #menu > li > a{
+        padding: 0 10px;
+        font-size: 13px;
+    }
+    .input_search{
+        width: 180px;
+    }
+    .bannerMain{
+        height: 450px;
+    }
+    .banner li{
+        height: 450px;
+    }
+    .gioithieu_home_id li{
+        width: 50%;
+    }
+    .gioithieu_home_id li img{
+        height: 320px;
+    }
+    .gioithieu_home_id ul{
+        width: 50%;
+        padding: 15px;
+    }
+    .gioithieu_home_id ul h2{
+        padding-bottom: 0;
+    }
+    .gioithieu_home_id ul h3{
+        margin-top: 15px;
+    }
+    .product_home ul{
+        width: 31%;
+        margin: 0 1% 20px;
+    }
+    .product_home ul li, .product_home ul li img{
+        height: 286px;
+    }
+    .right_conten{
+        width: 700px;
+    }
+    .product_list ul{
+        width: 46%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    .product_list ul li, .product_list ul li img{
+        height: 292px;
+    }
+    .viewLeft{
+        width: 100%;
+    }
+    .viewRight{
+        width: 100%;
+        float: none;
+        display: table-footer-group;
+    }
+    #bridal_images_list{
+        display: table-header-group;
+    }
+    .sp_clr{
+        display: none;
+    }
+    .page_padding{
+        position: relative;
+    }
+    .pro_slide_prev, .pro_slide_next{
+        top: 615px;
+    }
+    #bridal_images_list li{
+        width: 147px;
+    }
+    #bridal_images_list img{
+        width: 137px;
+        height: 137px;
+    }
+    #bridal_images{
+        width: 500px;
+    }
+    #bridal_images img {
+        width: 500px;
+    }
+    .sp_list_1{
+        display: none !important;
+    }
+    .sp_list_2{
+        display: table-header-group !important;
+    }
+    .news-img{
+        width: 30%;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+    }
+    .news-view{
+        width: 68%;
+    }
+    .icon_download{
+        top: 50px;
+    }
+    .icon_download img{
+        width: 35px;
+        height: 35px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .pagewrap {
+        width: 750px;
+    }
+    #menu{
+        display: flex;
+    }
+    .mb{
+        display: block;
+    }
+    .bannerMain{
+        height: 400px;
+    }
+    .banner li{
+        height: 400px;
+    }
+    .lang_top{
+        right: 53px;
+        top: 85px;
+    }
+    .home_mb{
+        margin-left: 145px;
+    }
+    .box_title_banner{
+        top: 165px;
+        width: 65%;
+    }
+    .gioithieu_home_id li{
+        width: 100%;
+        height: auto;
+    }
+    .gioithieu_home_id li img{
+        height: auto;
+    }
+    .gioithieu_home_id ul{
+        width: 100%;
+        text-align: center;
+    }
+    .gioithieu_home_id ul p{
+        text-align: justify;
+    }
+    .gioithieu_home_id ul a{
+        display: inline-block;
+    }
+    .product_home ul li, .product_home ul li img{
+        height: 211px;
+    }
+    .hotro{
+        float: left;
+        width: 400px !important;
+        display: inline-block !important;
+    }
+    .dieukhoan{
+        float: left;
+        width: 400px !important;
+        display: inline-block !important;
+    }
+    .ketnoi{
+        float: right;
+        width: 300px !important;
+        margin-top: -60px !important;
+        display: inline-block !important;
+    }
+    .left_conten{
+        float: none;
+        width: 100%;
+        display: table-footer-group;
+        margin-left: 0;
+    }
+    .right_conten{
+        float: none;
+        display: table-header-group;
+        width: 100%;
+        margin-right: 0;
+    }
+    .product_list ul{
+        width: 31%;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+    .product_list ul li, .product_list ul li img{
+        height: 206px;
+    }
+    .danhmuc_sp{
+        float: left;
+        width: 48%;
+        min-height: 465px;
+    }
+    .sp_noibat{
+        float: right;
+        width: 48%;
+    }
+    .product_left ul{
+        width: 100%;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        margin: 10px 0;
+    }
+    .product_left ul li, .product_left ul li img{
+        height: 310px;
+    }
+    .title_page_home{
+        width: 750px;
+    }
+}
+@media screen and (max-width: 770px) {
+    .pagewrap {
+        width: 570px;
+    }
+    .title_page_home{
+        width: 570px;
+    }
+    .timkiem_top{
+        margin-right: 20px;
+        margin-top: 50px;
+    }
+    .input_search{
+        width: 145px;
+    }
+    .logo_top ul h1{
+        font-size: 18px;
+    }
+    .logo_top ul h2{
+        font-size: 19px;
+    }
+    .bannerMain, .banner li{
+        height: 350px;
+    }
+    .box_title_banner{
+        top: 130px;
+    }
+    .product_home ul{
+        width: 46%;
+        margin: 0 2% 20px;
+    }
+    .product_home ul li, .product_home ul li img{
+        height: 240px;
+    }
+    .ketnoi{
+        margin-top: -110px !important;
+    }
+    .dieukhoan{
+        width: 250px !important;
+    }
+    .product_list ul{
+        width: 46%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    .product_left ul li, .product_left ul li img{
+        height: 235px;
+    }
+    #contact .left{
+        width: 100%;
+    }
+    #contact .right{
+        width: 100%;
+    }
+    #contact .left input{
+        width: 100%;
+    }
+    .listtabs li a{
+        padding: 0 16px;
+    }
+}
+@media screen and (max-width: 579px) {
+    .pagewrap {
+        width: 95%;
+    }
+    .home_mb{
+        margin-left: 0;
+    }
+    .bannerMain, .banner li{
+        height: 250px;
+    }
+    .box_title_banner{
+        top: 0;
+        left: 0;
+        width: 100%;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+    }
+    .box_title_banner ul p{
+        font-size: 12px;
+    }
+    .product_home h3{
+        width: 100%;
+    }
+    .product_home ul{
+        width: 100%;
+        margin: 0 0 20px;
+    }
+    .hotro{
+        width: 100% !important;
+    }
+    .dieukhoan{
+        width: 100% !important;
+    }
+    .ketnoi{
+        width: 100% !important;
+        margin-top: 20px !important;
+    }
+    .footer_bottom ul h2{
+        font-size: 14px;
+    }
+    .title_page_home{
+        width: 100%;
+    }
+    .title_page_home ul li{
+        line-height: 25px;
+    }
+    .product_list ul{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .product_list ul li, .product_list ul li img{
+        height: auto;
+    }
+    .product_home ul li, .product_home ul li img {
+        height: auto;
+        position: relative;
+        width: 100%;
+        min-height: 0;
+        max-height: 100%
+    }
+    .sp_noibat, .danhmuc_sp{
+        width: 100%;
+    }
+    .danhmuc_sp{
+        min-height: auto;
+    }
+    #bridal_images{
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+    }
+    #bridal_images img {
+        width: 100%;
+        height: auto;
+    }
+    .page_padding{
+        width: 100%;
+        padding: 5px;
+        box-sizing: border-box;
+    }
+    .footer_top ul{
+        margin: 0 0 ;
+    }
+    #bridal_images_list{
+        position: relative;
+    }
+    .pro_slide_prev, .pro_slide_next{
+        top: 565px;
+    }
+    .product_left ul li, .product_left ul li img
+    {
+        height: 100%;
+    }
+    .news-img{
+        width: 100%;
+    }
+    .news-img img{
+        height: auto;
+    }
+    .news-view{
+        width: 100%;
+    }
+    .logo_top ul h1{
+        font-size: 13px;
+    }
+    .logo_top ul h2{
+        font-size: 14px;
+    }
+    .header{
+        height: 140px;
+    }
+    .lang_top{
+        right: 0;
+    }
+    .listtabs li a{
+        padding: 0 10px;
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 479px) {
+    .lang_top{
+        width: 181px;
+        top: 0;
+    }
+    .lang_top ul li{
+        float: right;
+    }
+    .input_search{
+        width: 119px;
+    }
+    .logo_top li img{
+        width: 90px;
+        height: auto;
+    }
+    .logo_top ul{
+        margin-left: 0;
+        top: 135px;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+    }
+    .header{
+        height: 190px;
+    }
+    .pro_slide_prev, .pro_slide_next{
+        top: 510px;
+    }
+    .listtabs li a{
+        padding: 0 16px;
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 420px) {
+    .pro_slide_prev, .pro_slide_next{
+        top: 435px;
+    }
+    .listtabs li a{
+        padding: 0 16px;
+    }
+}
